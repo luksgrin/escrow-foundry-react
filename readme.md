@@ -7,8 +7,8 @@ This is an Escrow Dapp built with [Foundry](https://github.com/foundry-rs/foundr
 There are five top-level folders:
 
 1. `/app` - contains the front-end application
-2 `/lib` - contains the smart contract dependencies
-3 `/script` - contains the deployment scripts
+2. `/lib` - contains the smart contract dependencies
+3. `/script` - contains the deployment scripts
 4. `/src` - contains the solidity contract
 5. `/test` - contains tests for the solidity contract
 
